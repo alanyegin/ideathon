@@ -1,0 +1,5 @@
+insert into product values(1, 'coffee machine', 20)
+insert into tag values(1, 'coffee')
+insert into merchant values(1,'costa')
+insert into merchant_merchant_tags values(1,1)
+insert into product_tags values (1,1)

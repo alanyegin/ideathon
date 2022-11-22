@@ -1,0 +1,5 @@
+insert into transaction_data values(1,1,'12/11/12','costa',10,'debit')
+insert into transaction_data values(2,1,'12/11/12','costa',10,'debit')
+insert into transaction_data values(3,1,'12/11/12','costa',10,'debit')
+insert into transaction_data values(4,2,'12/11/12','costa',10,'debit')
+insert into transaction_data values(5,2,'12/11/12','costa',10,'debit')
